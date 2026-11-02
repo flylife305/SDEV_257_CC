@@ -35,7 +35,7 @@ export default function HomeScreen() {
         <ThemedView style={styles.heroSection}>
           <AnimatedIcon />
           <ThemedText type="code" style={styles.code}>
-            Hi, my name is Craig and I'm a mobile app developer.
+            Hi, my name is CRAIG and I'm a mobile app developer.
           </ThemedText>
         </ThemedView>
 
